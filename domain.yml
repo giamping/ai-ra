@@ -1,0 +1,10 @@
+session_config:
+  session_expiration_time: 0
+  carry_over_slots_to_new_session: true
+intents:
+- ciao
+responses:
+  saluti:
+  - text: e baci
+actions:
+- saluti
