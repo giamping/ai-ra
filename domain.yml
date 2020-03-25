@@ -1,14 +1,3 @@
 session_config:
   session_expiration_time: 0.0
   carry_over_slots_to_new_session: true
-intents:
-- salutare
-- bucare
-responses:
-  saluti:
-  - text: e baci
-  palla:
-  - text: bucare
-actions:
-- saluti
-- palla
