@@ -6,3 +6,9 @@
 
 ## intent:riposo
 - dormire
+
+## intent:partita
+- perdere
+
+## regex:rendere
+- prestare
